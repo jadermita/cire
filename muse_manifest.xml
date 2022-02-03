@@ -1,0 +1,121 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="codestsolutions.com" resolutions="1x" timestamp="1643879317585">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="133860866" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="martin-shreder-349256.jpg" crc="4056119740" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u137-6.png" crc="417691347" ref="index"/>
+    <file name="u144-6.png" crc="202564141" ref="index"/>
+    <file name="u150-4.png" crc="3827924096" ref="index"/>
+    <file name="u147-4.png" crc="4006936135" ref="index"/>
+    <file name="logomano10años.png" crc="3969044176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logomano2.png" crc="30464905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo3.jpg" crc="4051410245" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sin título-1.png" crc="3853721821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg-pegado-193784x65.svg" crc="3971602417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg pegado 193784x65_poster_.png" crc="5655606" ref="index"/>
+    <file name="firma.jpg" crc="4161866033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cartel-atlixcayotl.jpg" crc="4279659973" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sinpiel.jpg" crc="532780527" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19105819_1728840077143974_6373853200564203067_n.jpg" crc="490867805" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img6.jpg" crc="335938212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-15590895541342548239.png" crc="4093600368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8403613_ohk6ppa3o1xsv7gfiva2tq5pxrxjbzcejb_fk1ghk6g.jpg" crc="4076920320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="la-conjura.jpg" crc="305717675" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="206223437-1-tacos-tony-tacos-arabes.jpg" crc="271889971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="franquicia_foto2.jpg" crc="4015086974" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tony1.jpg" crc="3800829588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tony2.jpg" crc="3790122556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sin título-1.jpg" crc="4198039904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cremas.jpg" crc="3976038683" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sin-título-1.jpg" crc="343020490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sin-título-2.jpg" crc="3794908548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sin-título-3.jpg" crc="170216128" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sin-título-12.jpg" crc="3999917174" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sin-título-4.jpg" crc="4228033924" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sin-título-5.jpg" crc="146556187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sin-título-6.jpg" crc="54783693" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inyeccion.jpg" crc="3783078814" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spc.jpg" crc="4131446761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1517-4.png" crc="4261047231" ref="index"/>
+    <file name="u1502-4.png" crc="3837439098" ref="index"/>
+    <file name="u1505-4.png" crc="208931777" ref="index"/>
+    <file name="ico-fa.png" crc="447390954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1498-4.png" crc="4254077873" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3893087454" seo="true" mt="1643879226405" redirect="true"/>
+</manifest>
